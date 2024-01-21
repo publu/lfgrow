@@ -1,0 +1,17 @@
+node_modules
+.env
+
+# Hardhat files
+hardhat/cache
+hardhat/artifacts
+
+# TypeChain files
+hardhat/typechain/**
+hardhat/hardhat/typechain-types/**
+
+# solidity-coverage files
+hardhat/coverage
+hardhat/coverage.json
+hardhat/typechain-types/**
+hardhat/*.sol
+**.DS_STORE
