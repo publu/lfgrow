@@ -1,6 +1,6 @@
 pragma solidity ^0.8.0;
 
-interface IEngine {
+interface IProtonPack {
     function addCollaterals(address atoken, address oracle) external;
     function getValue(address onBehalfOf, uint256 i) external view returns(uint256);
     function loanToValue(address onBehalfOf) external view returns(uint256 currentLTV);
