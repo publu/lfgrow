@@ -17,3 +17,4 @@ hardhat/*.sol
 **.DS_STORE
 hardhat/package-lock.json
 hardhat/yarn.lock
+hardhat/package-lock.json
