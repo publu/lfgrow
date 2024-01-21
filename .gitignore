@@ -15,3 +15,5 @@ hardhat/coverage.json
 hardhat/typechain-types/**
 hardhat/*.sol
 **.DS_STORE
+hardhat/package-lock.json
+hardhat/yarn.lock

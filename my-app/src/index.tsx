@@ -8,7 +8,7 @@ import { ConnectKitProvider, getDefaultClient } from 'connectkit';
 
 const client = createClient(
   getDefaultClient({
-    appName: 'My App Name',
+    appName: 'Proton Pack',
     //infuraId: process.env.REACT_APP_INFURA_ID,
     //alchemyId:  process.env.REACT_APP_ALCHEMY_ID,
     chains: [chain.mainnet, chain.polygon],
